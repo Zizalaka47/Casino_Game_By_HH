@@ -23,11 +23,11 @@ The problem is solved using Python's built-in libraries and simple control struc
 - Emoji-based outcomes with special rewards
 
 ## Source Code
-Use this link to go directly to the source code: [Source Code](Casino_Slot_Machine_By_HH.py)
+Use this link to go directly to the source code: [Source Code](Casino_Game_By_HH.py)
 
 ## Live Demo
 You can play the game directly in your Web browser here:
-[TRY IT NOW!](https://replit.com/join/phnnudmqib-hhristov2007)
+[TRY IT NOW!](https://replit.com/join/ngflwomuog-hhristov2007)
 
 Alternatively, you can run the game on your local machine by following these steps:
 
